@@ -1,4 +1,3 @@
-/*Vasiliu Matei-Alexandru, 314CA*/
 
 #include <stdio.h>
 #include <stdlib.h>
