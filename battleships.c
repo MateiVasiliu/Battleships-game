@@ -7,8 +7,6 @@
 #define BLOCK_SIZE 10
 #define EPS_ERR 0.000001 // 1e-6
 
-// DE FACUT README UL FARA DIACRITICE
-
 typedef struct {
 	char type;
 	char orientation;
